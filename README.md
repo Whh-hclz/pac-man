@@ -81,6 +81,9 @@ w05_3d_game/
 - **Heartbeat recording** — InspectorJ, CC BY 4.0; see `w05_3d_game/assets/audio/heartbeat/README.md`.
 - **Enemy and tutorial audio** — sources listed in `w05_3d_game/assets/audio/enemy/README.md`
   and `w05_3d_game/assets/audio/tutorial/README.md`.
+- **Materials, music and voice** — ambientCG textures (Lennart Demes, CC0), AI-generated
+  textures, music by Chris Pinkston, and the AI supervisor voice are listed with their terms
+  in `w05_3d_game/REFERENCE_NOTES.md`; third-party assets keep their original licences.
 - **Visual reference** — the character design refers to MOMO; interface and pacing refer to
   *Five Nights at Freddy's* and *Dark Deception*. Models and scenes are our own work.
   Full list: `w05_3d_game/REFERENCE_NOTES.md`.
@@ -95,7 +98,7 @@ Everyone confirms their own row. Publishing does not make one person the sole au
 | --- | --- | --- |
 | 卢泽 (Lu Ze) | [@luze-111](https://github.com/luze-111) | Publisher: repository, README, GitHub Pages deployment |
 | — | [@MaybeItsAI](https://github.com/MaybeItsAI) | Documentation — to confirm in own PR |
-| — | [@Fhy11401](https://github.com/Fhy11401) | Documentation — to confirm in own PR |
+| 冯宏远 (Feng Hongyuan) | [@Fhy11401](https://github.com/Fhy11401) | Documentation: Credits section — asset, music and voice licences |
 | — | [@Mikuuuuuchan](https://github.com/Mikuuuuuchan) | Documentation — to confirm in own PR |
 
 **How to update this table:** each member edits only their own row, in their own branch and
