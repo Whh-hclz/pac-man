@@ -32,6 +32,15 @@ build covers Night 1.
 | Use held item | `V` |
 | Pause | `Esc` |
 
+### Your first five minutes
+
+1. Use WASD to move and the mouse to look around. Press Space to raise
+   your phone and check the map.
+2. Look for a distribution box. Stand beside it and hold E to repair it.
+3. If you hear the Last Guest nearby, walk quietly. Running with Shift
+   makes your footsteps louder.
+4. Once power is restored, return to the security room and close the door behind you to finish the night.
+
 ## Run locally
 
 Requires **Node.js 18+** and a desktop browser with WebGL2. Nothing needs to be installed:
