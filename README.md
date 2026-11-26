@@ -39,6 +39,7 @@ build covers Night 1.
 2. Look for a distribution box. Stand beside it and hold E to repair it.
 3. If you hear the Last Guest nearby, walk quietly. Running with Shift
    makes your footsteps louder.
+4. Once power is restored, return to the security room and close the door behind you to finish the night.
 
 ## Run locally
 
