@@ -99,6 +99,11 @@ w05_3d_game/
 - **AI assistance** — scope recorded in `w05_3d_game/AI_ASSISTANCE.md`. Documentation and
   deployment for Week 07 were prepared with DeepSeek Harness at the team's request.
 
+## CI/CD Exploration
+
+- **Current pipeline:** The repository only runs GitHub's built-in `pages build and deployment` workflow (e.g., run `45335217058` on commit `6b93a0b`), which triggers on pushes to `main` (not on pull requests) and executes `checkout -> Jekyll build -> upload artifact -> deploy` with no test step.
+- **Useful missing check:** **The tests never run automatically**—currently, `node --test tests/*.test.mjs` has to be executed manually before merging or deploying.
+
 ## Contributors
 
 Everyone confirms their own row. Publishing does not make one person the sole author.
@@ -108,7 +113,7 @@ Everyone confirms their own row. Publishing does not make one person the sole au
 | 卢泽 (Lu Ze) | [@luze-111](https://github.com/luze-111) | Publisher: repository, README, GitHub Pages deployment |
 | — | [@MaybeItsAI](https://github.com/MaybeItsAI) | Documentation — to confirm in own PR |
 | 冯宏远 (Feng Hongyuan) | [@Fhy11401](https://github.com/Fhy11401) | Documentation: Credits section — asset, music and voice licences |
-| — | [@Mikuuuuuchan](https://github.com/Mikuuuuuchan) | Documentation — to confirm in own PR |
+| — | [@Mikuuuuuchan](https://github.com/Mikuuuuuchan) | Prototyping, map design, and playtesting |
 
 **How to update this table:** each member edits only their own row, in their own branch and
 pull request, replacing the placeholder with their registered name and a one-line summary of
